@@ -1,1 +1,3 @@
 # Codlab
+
+Este projeto é um sistema em Python que permite cadastrar disciplinas, inserir notas e frequência, e gerar um relatório final informando a situação do aluno (aprovado ou reprovado).
